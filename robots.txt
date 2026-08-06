@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.myplacements.co.za/sitemap.xml
+Disallow: /admin
